@@ -1,0 +1,35 @@
+Code Review 5
+
+Goals
+- Create GitHub repository
+- Create HTMl, CSS, Javascript and JSON files
+- Add Header, Footer and Navbar elements
+- Display JSON onjects in HTML
+- Add "like" button to each object which increases "rating"
+- Add sort button to arrange objects by rating
+
+Non-Goals
+- Create additional pages linked in Navbar
+- Make display dynamic
+- Make dispay responsive
+- Sort function to work by any other means
+
+Anti-Goals
+- "like" button resets rating on click
+- Sort function only works once and not after ratings are updated further
+
+Must-Have
+	- GitHub Repository
+	- HTMl, CSS, Javascript and JSON files
+	- JSON objects displayed in HTML
+
+Should-Have
+	- "like" button on each object that increases "rating"
+
+Could-Have
+	- Sort function to order objects by rating
+
+Won't-Have
+	- Any further sort functions
+	- Additional pages
+	- Dynamic display
