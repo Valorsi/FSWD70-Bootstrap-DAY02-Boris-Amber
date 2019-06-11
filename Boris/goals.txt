@@ -1,0 +1,27 @@
+Goals: 
+	add a Header
+	Add HTML Structure through Javascript
+	Add Information/Images through Json
+	Add a Like button that updates after every like
+	add a button that Sorts the Movie Cards by amount of likes
+	Make the webpage Responsive
+	Add a footer
+
+
+
+Non-Goals: 
+	Add a script that automatically sorts the movie cards by amount of likes
+	Add a website for each of the movies with more information about them
+	Add a rating system (more akin to stars and not just likes)
+	 
+	
+
+
+Anti-Goals:
+	Make the webpage slow
+	Make the webpage Unresponsive/Look bad on small devices
+	Text is unreadable
+	Button explodes and kills the user
+	
+	
+	

@@ -1,0 +1,23 @@
+MoSCoW 
+-Must have-
+Responsiveness
+Bootstrap Framework
+Mobile Friendly
+Presentation of Offers, Destinations and client reccomendations	
+Most popular destination in hero
+
+-Should have-
+Information on the Destinations
+Prices for the Destinations
+Activity Suggestions
+A list of Reccomended Hotels
+
+-Could Have-
+A Carousel for the top destinations
+Sub pages 
+
+-Won't  have-
+Banoffee pie
+Customer Information
+Plane tickets
+Concert Tickets
